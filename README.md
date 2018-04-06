@@ -1,0 +1,1 @@
+# inspot-docs
